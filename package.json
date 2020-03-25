@@ -1,5 +1,5 @@
 {
-  "name": "otpjs",
+  "name": "otp-js",
   "version": "1.0.0",
   "description": "Module to generate a one time password from js code",
   "main": "dist/index.js",
