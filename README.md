@@ -1,4 +1,4 @@
-# Welcome to otp-js 👋
+# Welcome to onetimepassword-js 👋
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 [![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)](#)
 
@@ -7,13 +7,13 @@
 ## Install
 
 ```sh
-yarn install otp-js
+yarn install onetimepassword-js
 ```
 
 ## Usage
 
 ```sh
-import otp from 'otp-js'
+import otp from 'onetimepassword-js'
 
 const KEY = "your private key"
 
