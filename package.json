@@ -1,0 +1,25 @@
+{
+  "name": "otpjs",
+  "version": "1.0.0",
+  "description": "Module to generate a one time password from js code",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "prepublish": "tsc",
+  "keywords": [
+    "one time password",
+    "otp",
+    "otpJS"
+  ],
+  "author": "André Junqueira - BOB",
+  "license": "ISC",
+  "dependencies": {
+    "jssha": "2.3.1"
+  },
+  "devDependencies": {
+    "@types/jssha": "^2.0.0"
+  }
+}
